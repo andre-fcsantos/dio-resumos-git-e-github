@@ -1,5 +1,5 @@
 
-# DIO Resumo Git GitHub
+# DIO Resumo Git GitHub (André)
 
 Resumos para repositório do Git e Git GitHub do curso de Elidiane com uso de ferramentas para edição de textos do README.so [Repositório digetal para teste](https://readme.so/editor)A brief description of what this project does and who it's for
 
